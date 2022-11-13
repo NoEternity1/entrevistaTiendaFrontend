@@ -1,0 +1,7 @@
+.customCard {
+    height: 500px;
+}
+
+.customCard img {
+    max-height: 250px;
+}
